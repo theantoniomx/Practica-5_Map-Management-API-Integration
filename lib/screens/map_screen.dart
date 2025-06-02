@@ -40,7 +40,7 @@ class _MapScreenState extends State<MapScreen> {
     {'value': 'accommodation.hotel', 'label': 'Hoteles', 'icon': Icons.hotel},
     {
       'value': 'healthcare.pharmacy',
-      'label': 'Pharmacy',
+      'label': 'Farmacias',
       'icon': Icons.local_pharmacy,
     },
     {
